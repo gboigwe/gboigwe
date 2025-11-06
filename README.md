@@ -23,10 +23,10 @@
 fn learning_journey() -> Vec<&'static str> {
     vec![
         "✅ Rust Fundamentals (Chapter 1-15)",
-        "🔄 Stylus Development (Week 2/2)",
-        "⏳ Soroban (Next: 2 weeks)",
-        "⏳ Solana Development (2 weeks)",
-        "⏳ Ink! Smart Contracts (2 weeks)"
+        "✅ Stylus Development (Week 2/2)",
+        "✅ Soroban (Next: 2 weeks)",
+        "✅ Solana Development (2 weeks)",
+        "✅ Ink! Smart Contracts (2 weeks)"
     ]
 }
 ```
