@@ -68,6 +68,7 @@ fn learning_journey() -> Vec<&'static str> {
 [![trophy](https://github-profile-trophy.vercel.app/?username=gboigwe&theme=nord&column=7)](https://github.com/gboigwe/github-profile-trophy)
 
 ## 📊 Coding Activity
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gboigwe&theme=highcontrast)](https://git.io/streak-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gboigwe&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=45%2C0F2027%2C203A43)](https://github.com/gboigwe)
 
 ![AGE's GitHub stats](https://github-readme-stats.vercel.app/api?username=gboigwe&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
